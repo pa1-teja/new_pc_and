@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pearl Coaching</string>
+    <!--<string name="default_web_client_id">769993340098-92fehcudj9uom0insruh3uvdm0u1q9u5.apps.googleusercontent.com</string>-->
+    <string name="facebook_app_id">1904071839889241</string>
+    <string name="fb_login_protocol_scheme">fb1904071839889241</string>
+
+</resources>
